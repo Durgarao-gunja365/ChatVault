@@ -38,10 +38,9 @@ It provides a modern ChatGPT-like interface powered by **OpenRouter** for AI res
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/chatvault%20System%20architecture.png?raw=true
-" alt="Logo" width="200"/>
-</p>
+
+
+
 
 ## ⚙️ Tech Stack
 
@@ -55,6 +54,12 @@ It provides a modern ChatGPT-like interface powered by **OpenRouter** for AI res
 | **Hosting (optional)** | Local or Render |
 
 ---
+
+<h2 align="center">🧩 System Architecture</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chatvault%20System%20architecture.png" alt="System Architecture" width="100%"/>
+</p>
 
 ## 🛠️ Setup Instructions
 
@@ -165,5 +170,25 @@ ChatVault/
 │
 └── README.md
 
-📸 Screenshots (Add before submission)
+
+<h2 align="center">📸 Project Screenshots</h2>
+
+<p align="center">
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/home%20page.png?raw=true" width="250"/>
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/login.png?raw=true" width="250"/>
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/dd71d29ef9c86a66f0c68db8cb30cb241bfe3ff3/login.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/register.png?raw=true" width="250"/>
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/chat%20window.png?raw=true" width="250"/>
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/chat%20history.png?raw=true" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/ai%20analasis1.png?raw=true" width="250"/>
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/ai%20analasis.png?raw=true" width="250"/>
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/password%20change.png?raw=true" width="250"/>
+</p>
+
 
