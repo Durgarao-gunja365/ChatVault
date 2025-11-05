@@ -38,8 +38,10 @@ It provides a modern ChatGPT-like interface powered by **OpenRouter** for AI res
 
 ---
 
-System Architecture
-![Image Alt]([image_url](https://github.com/Durgarao-gunja365/ChatVault/blob/72430267e0f7d8c55d63ccb216a10394548c8fc7/chatvault%20data%20flow.png))
+<p align="center">
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/72430267e0f7d8c55d63ccb216a10394548c8fc7/chatvault%20data%20flow.png
+" alt="Logo" width="200"/>
+</p>
 
 ## ⚙️ Tech Stack
 
