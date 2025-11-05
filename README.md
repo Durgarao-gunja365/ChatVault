@@ -17,6 +17,67 @@ It provides a modern ChatGPT-like interface powered by **OpenRouter** for AI res
 
 ---
 
+<h2 align="center">📸 Project Screenshots</h2>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/home%20page.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/home%20page.png" width="220" alt="Home Page"/>
+  </a>
+  <br>
+  <sub>Home Page</sub>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/login.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/login.png" width="220" alt="Login Page"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/register.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/register.png" width="220" alt="Register Page"/>
+  </a>
+  <br>
+  <sub>Login & Register Pages</sub>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20window.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20window.png" width="220" alt="Chat Window"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20history.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20history.png" width="220" alt="Chat History"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis1.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis1.png" width="220" alt="AI Analysis 1"/>
+  </a>
+  <br>
+  <sub>Chat & AI Analysis</sub>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis.png" width="220" alt="AI Analysis"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/password%20change.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/password%20change.png" width="220" alt="Password Change"/>
+  </a>
+  <br>
+  <sub>AI Analysis & Password Change</sub>
+</p>
+
+
+
+<h2 align="center">🧩 System Architecture</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chatvault%20System%20architecture.png" alt="System Architecture" width="100%"/>
+</p>
+
+
+<h2 align="center">🧩 Data Flow </h2>
+
+<p align="center">
+  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/72430267e0f7d8c55d63ccb216a10394548c8fc7/chatvault%20data%20flow.png" alt="System Architecture" width="100%" height="1000"/>
+</p>
+
 ## 🧩 Features
 
 ### 🌐 Core Functionalities
@@ -55,11 +116,6 @@ It provides a modern ChatGPT-like interface powered by **OpenRouter** for AI res
 
 ---
 
-<h2 align="center">🧩 System Architecture</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chatvault%20System%20architecture.png" alt="System Architecture" width="100%"/>
-</p>
 
 ## 🛠️ Setup Instructions
 
@@ -173,30 +229,11 @@ ChatVault/
 
 <h2 align="center">📸 Project Screenshots</h2>
 
-<h3 align="center">🖼 Test Image</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/home%20page.png" width="400"/>
-</p>
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/home%20page.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/login.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/register.png" width="250"/>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20window.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20history.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis1.png" width="250"/>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/password%20change.png" width="250"/>
-</p>
 
 
 
