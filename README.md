@@ -173,22 +173,30 @@ ChatVault/
 
 <h2 align="center">📸 Project Screenshots</h2>
 
+<h3 align="center">🖼 Test Image</h3>
+
 <p align="center">
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/home%20page.png?raw=true" width="250"/>
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/login.png?raw=true" width="250"/>
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/dd71d29ef9c86a66f0c68db8cb30cb241bfe3ff3/login.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/home%20page.png" width="400"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/home%20page.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/login.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/register.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/register.png?raw=true" width="250"/>
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/chat%20window.png?raw=true" width="250"/>
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/chat%20history.png?raw=true" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20window.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/chat%20history.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis1.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/ai%20analasis1.png?raw=true" width="250"/>
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/ai%20analasis.png?raw=true" width="250"/>
-  <img src="https://github.com/Durgarao-gunja365/ChatVault/blob/main/password%20change.png?raw=true" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/ai%20analasis.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/Durgarao-gunja365/ChatVault/main/password%20change.png" width="250"/>
 </p>
+
 
 
